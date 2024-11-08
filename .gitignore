@@ -1,0 +1,5 @@
+# hide .ragenv
+.ragvenv/
+
+# hide /tmp/llama_index_cache
+/tmp/llama_index_cache/
