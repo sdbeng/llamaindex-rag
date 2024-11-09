@@ -3,3 +3,9 @@
 
 # hide /tmp/llama_index_cache
 /tmp/llama_index_cache/
+
+# hide .env
+.env*.local
+.env
+
+data/
